@@ -1,0 +1,14 @@
+{
+  "name": "esanders_javascriptslotmachine",
+  "version": "1.0.0",
+  "description": "Improving upon my Python Slot Machine, I'm following along to @techwithtim and his Javascript slot machine tutorial.",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
